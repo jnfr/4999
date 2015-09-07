@@ -1,10 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Skills Bucket List</title>
+<title>Skills Bucket List</title>
 </head>
 <body>
-  list of skills I want
+
+<h1>Skills Bucket List</h1>
+<p>
+  <ul>
+  <li>html</li>
+  <li>CSS</li>
+  <li>Excell</li>
+ 
+</ul>
+</p>
 
 </body>
 </html>
