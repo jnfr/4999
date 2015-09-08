@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
+th {
+    text-align: left;
+}
+table th	{
+    background-color: black;
+    color: white;
+}
+</style>
+<h1>City Comparisons</h1>
+<p>
+<table style="width:100%">
+<caption>Lengths of Winter vs. Non-Winter</caption>
+  <tr>
+    <th>City Name</th>
+    <th>Length of Winter</th> 
+    <th>Length of Non-Winter</th>
+  </tr>
+  <tr>
+    <td>Philadelphia</td>
+    <td>4 months</td> 
+    <td>8 months</td>
+  </tr>
+  <tr>
+    <td>Boston</td>
+    <td>4.5 months</td> 
+    <td>7.5</td>
+  </tr>
+  <tr>
+    <td>Austin</td>
+    <td>1 month</td> 
+    <td>11 months</td>
+  <tr>
+    <td>Gainesville</td>
+    <td>1 month</td> 
+    <td>11 months</td>
+  </tr>
+  </tr>
+</table>
+
+</p>
+
+</body>
+</html>
