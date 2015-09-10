@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<style>
+h1, h2, p {
+     color:blue;
+     text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1>Jennifer's Yoga Page</h1>
+<h2>Yoga for Vampire Slayers</h2>
+<p>Hello this is a yoga test page, blah blah blah, yoga info and classes and 
+
+etc.  stuff and things etc paragraphs and words.</p>
+
+</body>
+</html>
