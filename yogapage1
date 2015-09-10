@@ -12,6 +12,16 @@
 <img src="warrior1photo.jpg" alt="Warrior 1" style="width:304px;height:228px;">
 
 <p> stuff and things and things and stuff/>
+<br><br>
+<form action="action_page.php">
+  Join the email list to hear about major happenings:<br>
+
+  <input type="text" name="email" value=" ">
+
+  <br><br>
+  <input type="submit" value="Submit">
+</form> 
+
 
 </body>
 </html>
